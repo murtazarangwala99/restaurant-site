@@ -19,6 +19,8 @@
 
 ## Live Link of the Project:
 
+[Live Project Link](https://mkr-restaurant.netlify.app/)
+
 ## Output:
 
 ![Restaurant](./2.png)
